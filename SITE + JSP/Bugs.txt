@@ -1,7 +1,0 @@
-Editora ao editar adiciona-
-Equipe descrição está aparecendo null
-Equipe ao editar adiciona-
-Jogador ao editar dá erro
-Jogador não deleta
-Herói não adiciona
-Região ao editar adiciona-
